@@ -1,0 +1,21 @@
+{
+    "name": "hifive",
+    "description": "hifive component",
+    "license": "Apache License 2.0",
+    "homepage": "https://www.htmlhifive.com/",
+    "repository": "git://github.com/tkashi/hifive-bower-test",
+    "keywords": [
+        "hifive",
+        "component"
+    ],
+    "main": "h5.dev.js",
+    "scripts": [
+        "h5.js",
+        "h5.dev.js",
+        "ejs-h5mod.js",
+        "h5.css"
+    ],
+    "dependencies": {
+        "jquery": "2.1.4~"
+    }
+}
